@@ -1,5 +1,24 @@
 
-.clock {
+.blue {
+    background-color: #0781D4;
+
+    /* Circle */
+    width: 200px;
+    height: 200px;
+    box-shadow: 2px 3px grey;
+    background-color: #0781D4;
+    border-radius: 50%;
+    
+    /* Text stuff */
+    text-align: center;
+    line-height: 200px;
+    font-size: 3.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+.red {
+    background-color: red;
+
     /* Circle */
     width: 200px;
     height: 200px;
